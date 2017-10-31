@@ -1,0 +1,26 @@
+.divbackcolor{
+
+	background-color: #00B3FF;
+	height: 24px;
+
+}
+
+.colortitmenus{
+	color: white;
+	font-weight: bold;
+	font-size: x-small;
+}
+
+.colortextwhite{
+	color: white;
+	font-size: x-small;
+}
+
+.leftpos{
+	text-align: right;
+}
+
+.imageheadim{
+	height: 20px;
+	width: 20px;
+}
