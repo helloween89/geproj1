@@ -1,0 +1,64 @@
+.sectionnav {
+
+	background-color: #70B001;
+	display: flex;
+    align-items: center;
+	height: 40px;
+
+}
+.textsectionnav{
+
+	color: white;
+	font-size: small;
+	font-weight: bold;
+	margin-left: 24px;
+}
+.menucont {
+	height: 100%;
+	background-color: #00B3FF;
+}
+
+.textmenucolor{
+
+	color: white;
+	font-size: small;
+	margin-left: 8px;
+}
+
+.iconmenucolor {
+
+	color: white;
+
+}
+
+i.material-icons{
+	margin-right: .25em;
+	margin-left: 8px;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.section{
+
+	display: flex;
+    align-items: center;
+	margin-top: 4px;
+	margin-left: 0px;
+	height: 40px;
+
+}
+
+.arrowicon{
+
+	margin-left: 4em;
+	color: white;
+
+}
+
+.textmenucolor2{
+
+    color: white;
+	font-size: small;
+	margin-left: 4px;
+
+}

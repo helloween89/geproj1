@@ -1,0 +1,144 @@
+.sectiondashboard{
+
+	height: 70px;
+	background-color: #F29C11;
+
+}
+
+.bottomdiv{
+
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.leftdiv{
+
+	position: absolute;
+	margin-top:4px;
+	margin-left: 6px;
+	left: 0px;
+}
+
+.rightdiv{
+
+	position: absolute;
+	margin-top:4px;
+	margin-right: 6px;
+	right: 0px;
+}
+
+.textfooter{
+
+	color: white;
+	background-color: #DE8B0B;
+	text-align: center;
+
+}
+
+.textnumberdashboard{
+	color: white;
+	font-size: 30px;
+}
+.imgdashboard{
+	height: 40px;
+	width: 40px;
+}
+
+.sectiondashboard2{
+
+	height: 70px;
+	background-color: #00A75A;
+
+}
+
+.textfooter2{
+
+	color: white;
+	background-color: #04944F;
+	text-align: center;
+
+}
+
+.sectiondashboard3{
+
+	height: 70px;
+	background-color: #00C0ED;
+
+}
+
+.textfooter3{
+
+	color: white;
+	background-color: #01ACD8;
+	text-align: center;
+
+}
+
+.sectiondashboard4{
+
+	height: 70px;
+	background-color: #DD4C33;
+
+}
+
+.textfooter4{
+
+	color: white;
+	background-color: #C84332;
+	text-align: center;
+
+}
+
+.panprojects{
+
+    margin-top: 20px;
+	box-shadow: 0px 1px	1px 1px grey;
+	height: 200px;
+
+}
+
+.subpanprojects {
+
+    bottom: 10px;
+	left: 10px;
+	right: 10px;
+    height: 80px;
+
+}
+
+.colorpanmedition{
+
+	background-color: #BBBBBB;
+	height: 90px;
+
+}
+
+.colorpainfometer{
+
+	background-color: #EAEAEA;
+	height: 90px;
+
+}
+
+.texttitpaninfomet{
+	margin-top: 8px;
+	display: flex;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.textpaninfomet{
+	display: flex;
+	font-size: 12px;
+}
+
+.imgpanmeter{
+	margin-top: 8px;
+	left: 0px;
+	position: absolute;
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+}
