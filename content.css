@@ -95,12 +95,40 @@
 
     margin-top: 20px;
 	box-shadow: 0px 1px	1px 1px grey;
-	height: 200px;
+	height: 270px;
+
+}
+
+.pancalendar{
+
+    margin-top: 20px;
+	box-shadow: 0px 1px	1px 1px grey;
+	height: 250px;
 
 }
 
 .subpanprojects {
 
+    bottom: 10px;
+	left: 10px;
+	right: 10px;
+    height: 80px;
+
+}
+
+.subpanfooter {
+
+    position: absolute;
+    bottom: 0px;
+	left: 20px;
+	right: 0px;
+    height: 30px;
+
+}
+
+.subpanprojects2 {
+
+    margin-top: 20px;
     bottom: 10px;
 	left: 10px;
 	right: 10px;
@@ -141,4 +169,89 @@
 	height: 60px;
 	width: 60px;
 	margin-left: 0px;
+}
+
+.subpanfooterdiv {
+
+	position: absolute;
+	margin-bottom:10px;
+	margin-right: 16px;
+	right: 0px;
+	bottom: 0px;
+
+}
+
+.titcalendar {
+
+    position: absolute;
+    margin-top: 8px;
+	left: 10px;
+	right: 10px;
+    height: 30px;
+
+}
+
+.datetitcalendar {
+
+    position: absolute;
+    margin-top: 6px;
+	right: 0px;
+	margin-right: 10px;
+    height: 30px;
+
+}
+
+.textdatecalendar{
+	font-size: 22px;
+}
+
+.buttonleft {
+
+	margin-left: 6px;
+
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    
+}
+
+th, td {
+    text-align: left;
+    font-size: 18px;
+}
+
+tr.top td {
+  border-top: thin solid grey;
+}
+
+tr.bottom td {
+  border-bottom: thin solid grey;
+}
+
+tr.right: td {
+  border-right: thin solid grey;
+}
+
+.calendar{
+
+	overflow-x:auto;
+
+}
+
+.calendarbords {
+
+    position: absolute;
+    margin-top: 60px;
+    top: : 0px;
+	left: 4px;
+	right: 4px;
+    height: 30px;
+
+}
+
+.calendarelative {
+position: relative;
 }
